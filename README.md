@@ -1,12 +1,15 @@
-# Thuusbezorgd
+#Homedelivered
 
-## Inleiding
-Welkom bij onze thuisbezorgservice! Met behulp van onze geavanceerde Java Spring Boot-applicatie en RabbitMQ-messagingprotocol kunnen we snel en efficiënt bestellingen verwerken, van het moment dat ze zijn geplaatst tot aan de levering aan uw deur.
+copy from HU organization since forking was not possible
 
-deze app biedt een naadloze ervaring voor zowel klanten als leveranciers. Klanten kunnen eenvoudig hun favoriete gerechten selecteren en bestellen via onze gebruiksvriendelijke interface. Zodra een bestelling is geplaatst, wordt deze onmiddellijk doorgestuurd naar ons RabbitMQ-systeem, dat de bestellingen beheert en prioriteiten stelt op basis van verschillende criteria, zoals afstand tot de klant en beschikbaarheid van leveranciers.
+## Introduction
 
-Aan de kant van de leveranciers ontvangen ze in realtime de bestellingen die zijn toegewezen aan hun locatie. Dankzij RabbitMQ worden bestellingen efficiënt verdeeld en kunnen leveranciers snel reageren, waardoor de wachttijd voor klanten wordt geminimaliseerd.
+Welcome to our home delivery service! Using our advanced Java Spring Boot application and RabbitMQ messaging protocol, we can process orders quickly and efficiently, from the moment they are placed to delivery to your door.
 
-deze Java Spring Boot-applicatie zorgt voor een robuuste en schaalbare infrastructuur, waardoor we gemakkelijk kunnen omgaan met een hoog volume aan bestellingen tijdens piekuren. Bovendien biedt het gebruik van RabbitMQ een betrouwbare communicatie tussen verschillende delen van ons systeem, waardoor we consistentie en betrouwbaarheid garanderen bij elke transactie.
+this app provides a seamless experience for both customers and suppliers. Customers can easily select and order their favorite dishes through our user-friendly interface. Once an order is placed, it is immediately routed to our RabbitMQ system, which manages and prioritizes orders based on various criteria such as distance to the customer and supplier availability.
 
-Kortom, met onze combinatie van Java Spring Boot en RabbitMQ kunnen we een vlotte en betrouwbare thuisbezorgservice bieden die voldoet aan de behoeften van zowel klanten als leveranciers. Bedankt dat u voor ons hebt gekozen voor uw culinaire behoeften!
+On the suppliers' side, they receive the orders assigned to their location in real time. Thanks to RabbitMQ, orders are distributed efficiently and suppliers can respond quickly, minimizing waiting time for customers.
+
+This Java Spring Boot application provides a robust and scalable infrastructure, allowing us to easily handle a high volume of orders during peak hours. Furthermore, using RabbitMQ provides reliable communication between different parts of our system, ensuring consistency and reliability with every transaction.
+
+In short, with our combination of Java Spring Boot and RabbitMQ we can provide a smooth and reliable home delivery service that meets the needs of both customers and suppliers. Thank you for choosing us for your culinary needs!
